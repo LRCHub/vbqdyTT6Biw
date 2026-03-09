@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "アイオライト",
+  "base_artist": "Awesome City Club",
+  "createdAt": "2026-03-09T14:04:02.166711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイオライト",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/01_アイオライト_FLOW.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイオライト",
+      "artist": "上田麗奈",
+      "has_synced": true,
+      "path": "select/02_アイオライト_上田麗奈.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイオライト",
+      "artist": "水瀬いのり",
+      "has_synced": true,
+      "path": "select/03_アイオライト_水瀬いのり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイオライト - Aioraito",
+      "artist": "joy",
+      "has_synced": true,
+      "path": "select/04_アイオライト_-_Aioraito_joy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイオライト",
+      "artist": "ITOWOKASHI",
+      "has_synced": true,
+      "path": "select/05_アイオライト_ITOWOKASHI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイオライト",
+      "artist": "joy",
+      "has_synced": true,
+      "path": "select/06_アイオライト_joy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイオライト",
+      "artist": "イトヲカシ",
+      "has_synced": true,
+      "path": "select/07_アイオライト_イトヲカシ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイオライト",
+      "artist": "Joy",
+      "has_synced": false,
+      "path": "select/08_アイオライト_Joy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイオライト",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/09_アイオライト_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アイオライト / Iolite",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/10_アイオライト___Iolite_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アイオライト",
+      "artist": "Inori Minase",
+      "has_synced": true,
+      "path": "select/11_アイオライト_Inori_Minase.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アイオライト",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/12_アイオライト_Eve.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイオライト",
+      "artist": "Awesome City Club",
+      "has_synced": false,
+      "path": "select/pl_01_アイオライト_Awesome_City_Club.txt"
+    }
+  ]
+}
